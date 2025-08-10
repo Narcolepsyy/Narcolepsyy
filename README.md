@@ -2,7 +2,7 @@
 
 
 - 📫 How to reach me: **trantankhai1701@gmail.com**
-- 🌱 I'm currently learning **CompTIA A+**, **AWS**, **Microsoft Azure**
+- 🌱 I'm currently learning **AWS**, **Microsoft Azure**
 
 ---
 
