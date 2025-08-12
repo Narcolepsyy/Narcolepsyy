@@ -7,7 +7,7 @@ Full‑stack developer and aspiring AI engineer focused on building practical, s
 
 ## 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/tran-khai-31a1b9280  
-- Facebook: https://facebook.com/YOUR_FACEBOOK
+- Facebook: https://www.facebook.com/tran.khai.144598
 
 ## 🧠 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
