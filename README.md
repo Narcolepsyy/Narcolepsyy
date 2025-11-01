@@ -33,31 +33,6 @@ Full‑stack developer and aspiring AI engineer focused on building practical, s
 
 ---
 
-## 🌟 Featured Project
-
-### Clinic Management System (Java Database Capstone)
-Repository: https://github.com/Narcolepsyy/java-database-capstone
-
-- Tech: Spring Boot, Spring Security, JPA/Hibernate, MySQL, Thymeleaf, Maven, Docker
-- Highlights:
-  - Role‑based dashboards (Admin/Doctor/Patient)
-  - Appointment scheduling and doctor filtering (name/specialty/time)
-  - Secure authentication/authorization (BCrypt, CSRF)
-  - RESTful APIs + server-side rendering
-  - Containerized for deployment; cloud‑ready on AWS/Azure
-
----
-
-## 🔒 Security Practices
-- Password hashing with BCrypt  
-- Prefer HttpOnly, Secure cookies for auth  
-- CSRF protection enabled where applicable  
-- Input validation and DTOs to decouple API from entities
-
-## 📦 What I’m Exploring
-- Spring AI integration (RAG, summarization, Q&A)  
-- Cloud deployment patterns on AWS/Azure (Beanstalk/EC2/ECS, App Service/Container Apps)  
-- CI/CD with GitHub Actions, IaC basics
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Narcolepsyy&show_icons=true)
