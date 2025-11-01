@@ -1,10 +1,3 @@
-# Hi, I’m Tran Tan Khai 👋  
-Full‑stack developer and aspiring AI engineer focused on building practical, scalable web apps and integrating AI features that deliver real value.
-
-- 📫 Contact: trantankhai1701@gmail.com  
-- 🌱 Currently learning: AWS, Microsoft Azure, MLOps, Spring AI  
-- 🎯 Goal: Become a full‑stack + AI engineer
-
 ## 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/tran-khai-31a1b9280  
 - Facebook: https://www.facebook.com/tran.khai.144598
